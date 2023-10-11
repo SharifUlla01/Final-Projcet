@@ -1,0 +1,5 @@
+Mobile_Shop Utsa 111 50
+Computer_Shop Sharif 222 60  
+Fashion_Shop Ashfauqe 333 70
+cosmetics_sOwerName 444 80
+Dremwiner sOwerName 555 90
